@@ -12,7 +12,7 @@ Trailer_visual_similarities.ipynb:
 
 Note that the graphs yielded from the above notebooks are to verify that extraction worked properly and must be refined if used for direct analysis. 
 
-Eeg_feature_extraction.ipynb:
+Eeg_extraction.ipynb:
 - EEG feature extraction
 - Feature plotting as a function of time
 
